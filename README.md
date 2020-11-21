@@ -17,7 +17,7 @@ Some games on [Scratch](https://scratch.mit.edu/) that I made when I was in scho
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096224-403c4180-1669-11eb-87d4-600d35346edf.PNG">
 
 &emsp;
-> Enlace al juego : &emsp;
+> Enlace al juego :
 
 [Atari breakout](https://scratch.mit.edu/projects/134903866)
 
