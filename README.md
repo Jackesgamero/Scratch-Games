@@ -1,13 +1,14 @@
 # Scratch-Games
 Some games on scratch website that I made when I was in school
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096174-8e9d1080-1668-11eb-980c-a53b6e4b739f.PNG">
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096175-8fce3d80-1668-11eb-950a-3867c8ab860f.PNG">
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096176-90ff6a80-1668-11eb-9fab-0051725d5324.PNG">
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97428839-d9dc4b00-1916-11eb-9353-147c2ff632c2.PNG">
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096224-403c4180-1669-11eb-87d4-600d35346edf.PNG">
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096174-8e9d1080-1668-11eb-980c-a53b6e4b739f.PNG">
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096175-8fce3d80-1668-11eb-950a-3867c8ab860f.PNG">
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096176-90ff6a80-1668-11eb-9fab-0051725d5324.PNG">
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97428839-d9dc4b00-1916-11eb-9353-147c2ff632c2.PNG">
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096224-403c4180-1669-11eb-87d4-600d35346edf.PNG">
 
 > Atari Breakout :
+<br>
 [Enlace](https://scratch.mit.edu/projects/134903866)
 
 <br>
