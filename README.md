@@ -1,5 +1,5 @@
 # Scratch-Games
-Some games on scratch website that I made when I was in school
+Some games on [Scratch](https://scratch.mit.edu/) that I made when I was in school
 
 ## Atari Breakout 
 >  El juego consta de dos niveles, consiste en romper todos los bloques sin perder las vidas.
@@ -34,7 +34,7 @@ POWER UPS:
 - Plátano : 10 puntos
 - Naranja : 1 vida
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096229-4a5e4000-1669-11eb-92e4-cf16d94135a7.PNG">
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096229-4a5e4000-1669-11eb-92e4-cf16d94135a7.PNG">
 
 &emsp;
 > Enlace al juego : &emsp;
