@@ -22,7 +22,6 @@ Some games on [Scratch](https://scratch.mit.edu/) that I made when I was in scho
 [Atari breakout](https://scratch.mit.edu/projects/134903866)
 
 <br>
-<br>
 
 ## Space Cat 
 
