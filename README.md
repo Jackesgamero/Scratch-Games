@@ -23,12 +23,22 @@ Some games on scratch website that I made when I was in school
 
 <br>
 <br>
-<br>
 
 ## Space Cat 
+
+>Controla al gato con las flechas de control para conseguir la manzana sin que el terrible fantasma te atrape.
+
+POWER UPS:
+
+- Manzana : 1 punto
+- Plátano : 10 puntos
+- Naranja : 1 vida
+
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096229-4a5e4000-1669-11eb-92e4-cf16d94135a7.PNG">
 
-Space Cat:
-https://scratch.mit.edu/projects/86909411
+&emsp;
+> Enlace al juego : &emsp;
+
+[Space Cat](https://scratch.mit.edu/projects/86909411)
 
 
