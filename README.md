@@ -8,7 +8,6 @@ Some games on scratch website that I made when I was in school
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/71594504/97096224-403c4180-1669-11eb-87d4-600d35346edf.PNG">
 
 > Atari Breakout :
-
 [Enlace](https://scratch.mit.edu/projects/134903866)
 
 <br>
