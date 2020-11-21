@@ -1,5 +1,5 @@
 # Scratch-Games
-Some games on [Scratch](https://scratch.mit.edu/) that I made when I was in school
+This repository contains some games on [Scratch](https://scratch.mit.edu/) that I made when I was in school
 
 ## Atari Breakout 
 >  El juego consta de dos niveles, consiste en romper todos los bloques sin perder las vidas.
