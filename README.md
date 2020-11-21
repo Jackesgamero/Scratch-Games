@@ -17,11 +17,10 @@ Some games on scratch website that I made when I was in school
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97428839-d9dc4b00-1916-11eb-9353-147c2ff632c2.PNG">
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/71594504/97096224-403c4180-1669-11eb-87d4-600d35346edf.PNG">
 
-> Enlace al juego :
-<br>
+> Enlace al juego : &emsp;
+
 [Atari breakout](https://scratch.mit.edu/projects/134903866)
 
-<br>
 <br>
 <br>
 <br>
