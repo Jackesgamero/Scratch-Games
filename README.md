@@ -1,7 +1,7 @@
 # Scratch-Games
 This repository contains some games on [Scratch](https://scratch.mit.edu/) that I made when I was in school
 
-## Atari Breakout 
+## 🕹 Atari Breakout 
 >  El juego consta de dos niveles, consiste en romper todos los bloques sin perder las vidas.
 
 - Cómo bonificación por cambiar de nivel tus vidas se volverán a fijar a 3 y obtendrás 30 puntos de bonificación extra.
@@ -24,7 +24,7 @@ This repository contains some games on [Scratch](https://scratch.mit.edu/) that 
 <br>
 <br>
 
-## Space Cat 
+## 🕹 Space Cat 
 
 >Controla al gato con las flechas de control para conseguir la manzana sin que el terrible fantasma te atrape.
 
