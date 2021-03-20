@@ -1,4 +1,6 @@
 # Scratch-Games
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This repository contains some games on [Scratch](https://scratch.mit.edu/) that I made when I was in school
 
 ## 🕹 Atari Breakout 
